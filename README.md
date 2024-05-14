@@ -7,7 +7,6 @@ This project consists of a simple form that collects data for a Software Enginee
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -47,5 +46,6 @@ This project consists of a simple form that collects data for a Software Enginee
 
 3. **Submit the form** to view the generated profile.
 
-## File Structure
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
