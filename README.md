@@ -15,7 +15,7 @@ This project consists of a simple form that collects data for a Software Enginee
 - Displays the collected information on a separate profile page.
 - Prevents XSS attacks by sanitizing user input.
 
-![Profile Form](./image.png)
+![Profile Form](/image.png)
 
 ## Installation
 
